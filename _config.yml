@@ -1,19 +1,20 @@
 # Site Settings
-name: امنیت سیستم های مخابراتی و بی سیم
-title: امنیت سیستم های مخابراتی و بی سیم
-description: کتابچه امنیت سیستم های مخابراتی و بی سیم
+name: روش های تحلیل و نفوذ و امنیت در مقایل بدافزار ها
+title: روش های تحلیل و نفوذ و امنیت در مقایل بدافزار ها
+description: کتابچه روش های تحلیل و نفوذ و امنیت در مقایل بدافزار ها
 tags:
-  - communication
-  - wireless
-  - بی سیم
-  - مخابرات
+  - binary
+  - system
+  - reverse 
+  - مهندسی_معکوس
   - امنیت
+  - بدافزار
 show_hero: true
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: physicalsec
+github_username: executable0
 facebook_username: 
 
 
